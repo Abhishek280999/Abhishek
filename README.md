@@ -1,6 +1,6 @@
 
 <!--  portfolio link/  -->
-### Hey there, I'm  Vaibhav 
+### Hey there, I'm  Abhishek 
 <p align="center">
   I'm a Electrical Engineer by education🎓 from RTMNU university Nagpur 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
 </p> 
@@ -10,7 +10,7 @@
 
 - 🙋‍♂️ Full Stack Web Developer.
 - 👉 Interested in building amazing frontend websites.
-- 💻 The tech I'm interested HTML/CSS/Javascript/React js / Java / SQl.
+- 💻 The tech I'm interested HTML/CSS/Javascript/React js/Java/SQL.
 - 📄 Portfolio - "https://portfolio-website-abhishek280999.vercel.app/"
 
 <br>
@@ -19,11 +19,7 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://twitter.com/vaibhav61104399/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/vaibhavdarwekar/?hl=en">
+<a href="https://www.instagram.com/_._a_b_h_i_._/?igshid=MzNlNGNkZWQ4Mg%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
