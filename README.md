@@ -2,7 +2,7 @@
 <!--  portfolio link/  -->
 ### Hey there, I'm  Vaibhav 
 <p align="center">
-  I'm a Mechanical Engineer by education🎓 from RTMNU university Nagpur 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
+  I'm a Electrical Engineer by education🎓 from RTMNU university Nagpur 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
 </p> 
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
 
@@ -10,8 +10,8 @@
 
 - 🙋‍♂️ Full Stack Web Developer.
 - 👉 Interested in building amazing frontend websites.
-- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 Portfolio - "https://vaibhav-darvekar-portfolio-devv.netlify.app/"
+- 💻 The tech I'm interested HTML/CSS/Javascript/React js / Java / SQl.
+- 📄 Portfolio - "https://portfolio-website-abhishek280999.vercel.app/"
 
 <br>
  <div align="center">
