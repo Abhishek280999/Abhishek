@@ -23,12 +23,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/vaibhav-darvekar-9ba9a1217/">
+<a href="https://www.linkedin.com/in/abhishek-darwekar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
-<a href="https://www.facebook.com/vaibhav.darwekar.50">
+<a href="https://www.facebook.com/people/Abhishek-S-Darwekar/pfbid02cQRroUyH3KaWWx6un1jxzqeWtC5oZiEBbqh1vJ9crXHttCYr8hMkdVBwoeJNJUxPl/?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
